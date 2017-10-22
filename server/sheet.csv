@@ -1,5 +1,14 @@
 Age,Positive,Fuel,gender,sport,travel,label
-22,0.95,0,1,0.8,1,gti|2013|volkswagen|21|31
-24,0.8,0,0,0.7,1,s80 fwd|2013|volvo|19|28
-27,0.6,1,1,0.5,0,ilx|2017|honda|25|35
-45,0.9,0,0,0.8,0,golf alltrack|2017|22|30
+22,0.95,0,1,0.8,0.95,gti|2013|volkswagen|21|31
+24,0.8,0,0,0.7,0.8,s80 fwd|2013|volvo|19|28
+27,0.6,1,1,0.5,0.12,ilx|2017|honda|25|35
+45,0.9,0,0,0.8,0.11,golf alltrack|2017|Volkswagen|22|30
+32,0.8,0,0,0.5,0.8,fusion fwd|2017|ford motor company|21|31
+23,0.7,0,1,0.7,0.7,mx-5|2017|mazda|26|33
+35,0.8,1,1,0.2,0.3,prius eco|2017|toyota|35|45
+23,0.3,1,0,0.5,0.8,prius|2017|toyota|35|47
+23,0.8,1,1,0.9,0.95,accord|2017|honda|27|35
+35,0.7,1,0,0.8,0.2,civic|2010|honda|30|35
+32,0.3,1,1,0.83,0.3,mkz hybrid fwd|2017|ford motor company|35|42
+20,0.9,0,1,0.9,0.8,veyron|2015|bugatti|8|15
+25,0.5,0,1,0.8,0.5232,f150 raptor 4wd|2014|roush|13|19
