@@ -1,0 +1,5 @@
+Age,Positive,Fuel,gender,sport,travel,label
+22,0.95,0,1,0.8,1,gti|2013|volkswagen|21|31
+24,0.8,0,0,0.7,1,s80 fwd|2013|volvo|19|28
+27,0.6,1,1,0.5,0,ilx|2017|honda|25|35
+45,0.9,0,0,0.8,0,golf alltrack|2017|22|30

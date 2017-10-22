@@ -23,6 +23,27 @@ app.get('/', function (req, res) {
 		}
 	}
 
+	function getTenFuelEconomy(rank) {
+		return {
+			  "url": "https://apis.solarialabs.com/shine/v1/vehicle-stats/annual-fuel-costs",
+			  "method": "GET",
+			  "qs": {
+			    "top-ten": rank,
+			    "apikey": "2JkECSlUEf0ZI5c5TippamAWIyBqEcsL"
+			  }
+			}
+	}
+
+
+	function getTenSavingCar(rank) {
+		return  {"url": "https://apis.solarialabs.com/shine/v1/vehicle-stats/five-year-savings",
+			  "method": "GET",
+			  "qs": {
+			    "top-ten": rank,
+			    "apikey": "2JkECSlUEf0ZI5c5TippamAWIyBqEcsL"
+			  }
+	}
+
 
 	function getParkingInfo2(lat, long) {
 		return {
