@@ -1,5 +1,5 @@
 {
-  "name": "dubhacks2017",
+  "name": "server",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,15 +8,21 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/khanhtranCS/dubhacks2017-RentalX.git"
+    "url": "git+https://github.com/WRProject/Server.git"
   },
-  "author": "",
+  "author": "kha nguyen",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/khanhtranCS/dubhacks2017-RentalX/issues"
+    "url": "https://github.com/WRProject/Server/issues"
   },
-  "homepage": "https://github.com/khanhtranCS/dubhacks2017-RentalX#readme",
+  "homepage": "https://github.com/WRProject/Server#readme",
   "dependencies": {
-    "express": "^4.16.2"
+    "body-parser": "^1.15.2",
+    "cognitive-services": "^0.3.2",
+    "express": "^4.14.0",
+    "fb": "^2.0.0",
+    "node-wit": "^4.2.0",
+    "request": "^2.79.0",
+    "util": "^0.10.3"
   }
 }
